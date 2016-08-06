@@ -1,4 +1,5 @@
 # CamControl
 Camera controller using STM32 micro
 Board stm32F4 discovery
-to control the DSLR using 
+to control the DSLR 
+via USB 
